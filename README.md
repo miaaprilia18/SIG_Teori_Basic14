@@ -149,6 +149,7 @@ link https://github.com/miaaprilia18/SIG_Teori_Basic_GIS_operations/blob/main/pr
 13.	Layer baru akan ditambahkan ke panel Layers. Pada titik ini, mungkin sulit untuk melihat output karena kita memiliki terlalu banyak lapisan tumpang tindih yang terlihat. Klik tombol Manage Map Themes di panel Layers dan pilih .OUTPUTHide All Layers
 14.	Nyalakan hanya layer terbaru dan beri gaya dengan perender seperti yang dilakukan sebelumnya.OUTPUTHilshade
 15.	Lapisan elevasi output yang digabungkan dan disubset untuk Sri Lanka sudah siap.
+link https://github.com/miaaprilia18/SIG_Teori_Basic_GIS_operations/blob/main/project%207.png
 
 # Working with Terrain Data (QGIS3)
 
@@ -178,6 +179,7 @@ link https://github.com/miaaprilia18/SIG_Teori_Basic_GIS_operations/blob/main/pr
 24.	Anda juga dapat memvisualisasikan lapisan kontur dan memverifikasi analisis Anda dengan mengekspor lapisan kontur sebagai KML dan melihatnya di Google Earth. Klik kanan pada layer yang dihaluskan, pilih Export Save Feature As….
 25.	Pilih Bahasa Markup Lubang Kunci [KML] sebagai Format. Klik ... di File name dan masukkan namanya sebagai contour_smoothed.kml. Klik Oke.
 26.	Jelajahi file keluaran pada disk Anda dan klik dua kali untuk membuka Google Earth Pro.
+link https://github.com/miaaprilia18/SIG_Teori_Basic_GIS_operations/blob/main/project8.qgz dan https://github.com/miaaprilia18/SIG_Teori_Basic_GIS_operations/blob/main/project8.png
 
 # Working with WMS Data (QGIS3)
 1.	Buka QGIS dan klik Open Data Source Manager.
@@ -202,6 +204,7 @@ link https://github.com/miaaprilia18/SIG_Teori_Basic_GIS_operations/blob/main/pr
 16.	Untuk mendapatkan lebih banyak akses ke transparansi layer, klik kanan pada layer dan pilih Properties….
 17.	Di kotak dialog Properties Lapisan, alihkan ke tab Legend, di bawah Widget yang tersedia pilih penggeser Opasitas dan klik Tambahkan ikon widget yang dipilih. Klik OK.
 18.	Sekarang widget penggeser akan tersedia untuk mengontrol opacity layer.
+link https://github.com/miaaprilia18/SIG_Teori_Basic_GIS_operations/blob/main/project9.png
 
 # Working with Projections (QGIS3)
 1.	Buka QGIS dan klik Open Data Source Manager.
@@ -226,6 +229,7 @@ link https://github.com/miaaprilia18/SIG_Teori_Basic_GIS_operations/blob/main/pr
 16.	Untuk mendapatkan lebih banyak akses ke transparansi layer, klik kanan pada layer dan pilih Properties….
 17.	Di kotak dialog Properties Lapisan, alihkan ke tab Legend, di bawah Widget yang tersedia pilih penggeser Opasitas dan klik Tambahkan ikon widget yang dipilih. Klik OK.
 18.	Sekarang widget penggeser akan tersedia untuk mengontrol opacity layer.
+link https://github.com/miaaprilia18/SIG_Teori_Basic_GIS_operations/blob/main/project10.png
 
 
 # Georeferencing Topo Sheets and Scanned Maps (QGIS3)
